@@ -4,11 +4,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [FitLyst](https://www.youtube.com/watch?v=avCYlOvstGc&t=780s) | Workout building mobile app | Javascript, React Native, MongoDB, Express, Expo | [React Native Github](https://github.com/Emmapr123/ControLLyfe-ReactNative) [Express Github](https://github.com/taran314/controLLyfe)
-| [Knitter](http://knitter-acebook.herokuapp.com/) | Facebook clone for Grannies! | Ruby, Rails, Heroku, AWS S3 | [Github](https://github.com/TataSher/Acebook-Knitter)
-| [Makers BnB](https://github.com/ralphbartley/makersbnb_Pi_to_i) | AirBnB clone for renting and booking property | Ruby, PostgreSQL, Sinatra | [Github](https://github.com/ralphbartley/makersbnb_Pi_to_i)
+| Name                         | Description       | Tech/tools        | Repo Link |
+| ---------------------------- | ----------------- | ----------------- | ---- |
+| [FitLyst](https://www.youtube.com/watch?v=avCYlOvstGc&t=780s) | Workout building mobile app | Javascript, React Native, MongoDB, Express, Expo | [React Native Github](https://github.com/Emmapr123/ControLLyfe-ReactNative) [Express Github](https://github.com/taran314/controLLyfe) |
+| [Knitter](http://knitter-acebook.herokuapp.com/) | Facebook clone for Grannies! | Ruby, Rails, Heroku, AWS S3 | [Github](https://github.com/TataSher/Acebook-Knitter) |
+| [Makers BnB](https://github.com/ralphbartley/makersbnb_Pi_to_i) | AirBnB clone for renting and booking property | Ruby, PostgreSQL, Sinatra | [Github](https://github.com/ralphbartley/makersbnb_Pi_to_i) |
 
 ## Experience
 
