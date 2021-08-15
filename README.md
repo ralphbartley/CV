@@ -1,52 +1,70 @@
-## Your Name
+
+
+# Ralph Bartley
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
+[Projects List](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies](#hobbies)
+
+I am a friendly, hard-working science graduate with varied work experience looking for a challenging opportunity as a Full Stack Developer to apply my problem solving skills to create solutions.  I thrive in a team environment a
+
 ## Projects
 
-| Name                         | Description       | Tech/tools        | Repo Link |
-| ---------------------------- | ----------------- | ----------------- | ---- |
-| [FitLyst](https://www.youtube.com/watch?v=avCYlOvstGc&t=780s) | Workout building mobile app | Javascript, React Native, MongoDB, Express, Expo | [React Native Github](https://github.com/Emmapr123/ControLLyfe-ReactNative) [Express Github](https://github.com/taran314/controLLyfe) |
-| [Knitter](http://knitter-acebook.herokuapp.com/) | Facebook clone for Grannies! | Ruby, Rails, Heroku, AWS S3 | [Github](https://github.com/TataSher/Acebook-Knitter) |
-| [Makers BnB](https://github.com/ralphbartley/makersbnb_Pi_to_i) | AirBnB clone for renting and booking property | Ruby, PostgreSQL, Sinatra | [Github](https://github.com/ralphbartley/makersbnb_Pi_to_i) |
-
-## Experience
-
-**Sambrook's Brewery** (June '17 to Oct '18)  
-_Brewery Operations Manager_
-
-- Any experience relevent to software development
-
-**Explosive Titles: Startup Web Agency** (Oct '13 to Jan '15)  
-_Lead Project Consultant_
-
-- Any experience relevent to software development
+| Name                         | Description       | Tech and Github   | 
+| ---------------------------- | ----------------- | ----------------- |
+| [FitLyst](https://www.youtube.com/watch?v=avCYlOvstGc&t=780s) | Workout building mobile app | [Javascript, React Native, Expo](https://github.com/Emmapr123/ControLLyfe-ReactNative) and [MongoDB, Node, Express](https://github.com/taran314/controLLyfe) |
+| [Knitter](http://knitter-acebook.herokuapp.com/) | A Facebook clone for Grannies! | [Ruby, Rails, Heroku, AWS S3](https://github.com/TataSher/Acebook-Knitter) |
+| Makers BnB | AirBnB clone for renting and booking property | [Ruby, PostgreSQL, Sinatra](https://github.com/ralphbartley/makersbnb_Pi_to_i) |
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Communication
 
-**Analysis & Abstraction**
-Learning depth, details matter, axiomatic development of varying levels of abstraction
-**Explanation Capability**
-Find that being able to explain something well and at different levels of underlying assumptions is the best gauge for how well I know something.  I value being able to use this skill to teach others, confidently communicate and to assess my own understanding of a topic.
-**Empathy & Communication**
-I prioritise the shared benefit of the group and community that I work with ...  My motivation comes from working in an environment and team that enables daily problems to be navigated smoothly, and with flow
+  - As Operations Manager at Sambrook's Brewery, leading a cohesive and effective team meant ensuring that goals were clearly communicated, getting buy-in from team members by contextualising the requirements at hand, and aligning on how the work would be carried out.  I also made it a priority to keep precise and ongoing communication with all other departments, from helping the sales team take advantage of short term opportunities, to keeping the office informed about current stock levels.
+  - At Makers my focus on the team dynamic during group projects prompted me to prioritise each member's personal goals and to make sure we started slowly, providing extra time for learning and looking for shared understanding of the problem and our approach, so that we could move fast later on.  This proved crucial to the success of each of the three projects linked above.
+  - Communicating at varied levels has been a key part of my job across several of the roles I have held. At Explosive Titles, I worked closely with clients to understand their needs and goals for projects and translate them into technical requirements for developers. At the brewery, I developed and grew three contract brewing customer relationships as well as managed various one-off contracts. This involved helping brands to develop products by exploring their ideas with them, and communicating to them how they could best be achieved. As a brewer I also enjoyed translating the technical process of beer production for tour groups, who often let me know they had never had such a digestible explanation before.
 
-#### This Skill
+#### Attention to Detail
 
-- Experience
-- Achievements
-- Evidence
+  - As Operations Manager at Sambrook's Brewery, my interest and confidence in interacting with the details of production forecasting and planning, yeast fermentation, quality control, and hazardous analysis, enabled me to develop new production processes, improve existing ones, and support the production team's efforts  -- ultimately expanding the brewery's production capacity and capabilities.
+  - While at University I contributed to three different research labs by learning highly technical skills, digesting existing research on the topics, enjoying getting to the nitty gritty details, and using both to troubleshoot problems in projects.
+  - At Makers, my attention to detail enabled me to quickly learn React Native, Express, MongoDB, and Expo to develop a mobile app with my team in only two weeks during the final group project.
+  - I'm constantly motivated by a desire to learn and to look for the details of things, to see how everything works and to achieve elegant designs -- my favourite hobbies are extremely detail oriented: PC hardware overclocking, custom watercooling, and designing bases in Rust!
 
-#### Another Skill
+#### Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+  - At Sambrook's Brewery as a Brewery Assistant I abstracted a system of how my team worked and developed a planning tool to help gain visibility on the work to be done for the week, using a giant whiteboard, which enabled better shift scheduling for staff and early identification of schedule sticking points.  I was promoted to Packaging Team Leader for that solution as it was a representation of my initiative in identifying and improving process related problems throughout my role.  I was promoted once more to Operations Manager, having continued to further refine the planning tool, even implementing a digital version in Excel, to accomodate a diverse set of activities while still maintaining useful layers of abstraction.
+  - After joining the lab in Newcastle, I took over a project in which the mechanism of a DNA construct was not working as designed. I reviewed the experimental design and discovered unintentional characterists present that prevented successful use of the constructs.  Once I made changes to the DNA sequence to enable its intended functionality, the project was able to progress in gathering data.  I was later appointed manager of this lab to help nurture the development of five new student researchers.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+## Experience
+
+**Makers Academy** (Mar '21 - May '21)
+_Student_
+- 
+
+**By The Horns Brewery** (Aug '20 - Feb '21)
+_Production Brewer_
+
+**Self-employed** (Oct '18 - June '19)
+_Dog Training and Boarding_
+- Great exercise, perfect for studying behaviour, and I loved nurturing and getting to know so many different dogs!
+
+**The Spread Eagle Pub, Fuller's** (June '19 - Nov '19)
+_Cellarman and Bar Staff_
+
+**Sambrook's Brewery** (June '15 - Oct '18)  
+_Brewery Operations Manager_
+_Packaging Team Leader_
+_Assistant Brewer_
+
+
+**Explosive Titles: Startup Web Agency** (Oct '13 to Jan '15)  
+_Lead Project Consultant_
+- I was the second employee in a startup, I took on wide ranging responsibilities, having an evolving role as the company grew and its needs changed.
+
+**Institute for Cell and Molecular Biosciences, Newcastle University** (Jan - May '13)
+_Lab Manager_
+- Trained and supported five new student lab members which enhanced their ability to work independently.
 
 ## Education
 
@@ -56,18 +74,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   - Fell back in love with OOP, TDD develops such strong fundamentals in approach to a problem, MVC/DDD optimising abstraction of interfaces while maintaining relatedness
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec
 
-#### Your University / College (start_date to end_date)
+#### University of Illinois in Urbana-Champaign 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Bachelor of Science in Molecular and Cellular Biology ('08 - '12)
+  - Undergraduate Research Assistant, College of Veterinary Medicine 2nd Year
+    - Demonstrated ability to work independently to a high standard, propagating mammalian cell lines, growing virii and conducting cancer treatment experiments in mice.  Promoted to paid work and trusted with supervision of the lab while staff were away at a conference for two weeks.
 
-#### Any other qualifications
+  - Student Researcher, Institute for Cell and Molecular Biosciences, Newcastle University, UK 3rd Year
+    - During year abroad, evaluated the design of a project that progress had slowed on.  Performed a foundational review by assessing the validity of the molecular constructs being used by analysing the DNA sequences in use.  Discovered unintentional characteristics present that prevented successful use of the constructs.  Made changes to DNA sequence to enable original functionality so that the project could progress in gathering data.
 
-That in some arguable way make you a better software developer or well-rounded person
+  - Undergraduate Research Assistant, Department of Integrative Physiology 4th Year
+    - Troubleshot another member’s project that was producing erratic results by analysing data and identifying an early stage mislabeling of samples that continued to be used in subsequent experiments. Determined the effect caused on data gathered after the error and prevented unnecessary repetition of work where possible. Also regularly presented personal research progress formally which refined ability to describe project simply and effectively.
+
+#### Illinois Math and Science Academy Class of 2008
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- PC hardware overclocking, custom watercooling, designing bases in Rust
+- learning about sustainability, engineering, cooking, and food production
+- reading and thinking about Iain M. Banks' works 
