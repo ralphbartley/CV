@@ -29,7 +29,7 @@ I am a friendly, hard-working science graduate with varied work experience looki
   - As Operations Manager at Sambrook's Brewery, my interest and confidence in interacting with the details of production forecasting and planning, yeast fermentation, quality control, and hazardous analysis, enabled me to develop new production processes, improve existing ones, and support the production team's efforts  -- ultimately expanding the brewery's production capacity and capabilities.
   - While at University I contributed to three different research labs by learning highly technical skills, digesting existing research on the topics, enjoying getting to the nitty gritty details, and using both to troubleshoot problems in projects.
   - At Makers, my attention to detail enabled me to quickly learn React Native, Express, MongoDB, and Expo to develop a mobile app with my team in only two weeks during the final group project.
-  - I'm constantly motivated by a desire to learn and to look for the details of things, to see how everything works and to achieve elegant designs -- my favourite hobbies are extremely detail oriented: PC hardware overclocking, custom watercooling, and designing bases in Rust!
+  - I'm constantly motivated by a desire to learn and to look for the details of things, to see how everything works and to achieve elegant designs -- my favourite hobbies are extremely detail oriented: [PC hardware overclocking](https://www.3dmark.com/3dm/62326642), [custom watercooling](https://www.reddit.com/r/watercooling/comments/ny43qp/phanteks_p400a_case_mod_3rd_rebuild_overkill/), and [designing bases in Rust](https://www.twitch.tv/karmalater)!
 
 #### Problem Solving
 
@@ -38,25 +38,25 @@ I am a friendly, hard-working science graduate with varied work experience looki
 
 ## Experience
 
-**Makers Academy** (Mar '21 - May '21)
+**Makers Academy** (Mar '21 - May '21)  
 
-**By The Horns Brewery** (Aug '20 - Feb '21)
+**By The Horns Brewery** (Aug '20 - Feb '21)  
 _Production Brewer_
 
-**The Spread Eagle Pub, Fuller's** (June '19 - Nov '19)
+**The Spread Eagle Pub, Fuller's** (June '19 - Nov '19)  
 _Cellarman and Bar Staff_
 
-**Self-employed** (Oct '18 - June '19)
+**Self-employed** (Oct '18 - June '19)   
 _Dog Training and Boarding_
 
 **Sambrook's Brewery** (June '15 - Oct '18)  
-_Brewery Operations Manager_
-_Packaging Team Leader_
+_Brewery Operations Manager_  
+_Packaging Team Leader_  
 _Assistant Brewer_
 
 **Explosive Titles: Startup Web Agency** (Oct '13 to Jan '15)  
-_Lead Project Consultant_
-- I was the second employee in a startup, I took on wide ranging responsibilities, having an evolving role as the company grew and its needs changed.
+_Lead Project Consultant_  
+I was the second employee in a startup, I took on wide ranging responsibilities, having an evolving role as the company grew and its needs changed.
 
 **Institute for Cell and Molecular Biosciences, Newcastle University** (Jan - May '13)
 _Lab Manager_
@@ -79,6 +79,6 @@ Bachelor of Science in Molecular and Cellular Biology ('08 - '12)
 
 ## Hobbies
 
-- PC hardware overclocking, custom watercooling, designing bases in Rust
+- [PC hardware overclocking](https://www.3dmark.com/3dm/62326642), [custom watercooling](https://www.reddit.com/r/watercooling/comments/ny43qp/phanteks_p400a_case_mod_3rd_rebuild_overkill/), [designing bases in Rust](https://www.twitch.tv/karmalater)
 - learning about sustainability, engineering, cooking, and food production
 - reading and thinking about Iain M. Banks' works 
