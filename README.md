@@ -6,7 +6,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 [Projects List](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies](#hobbies)
 
-I am a friendly, hard-working science graduate with varied work experience looking for a challenging opportunity as a Full Stack Developer to apply my problem solving skills to create solutions.  I thrive in a team environment a
+I am a friendly, hard-working science graduate with varied work experience looking for a role where I can continue to develop my full stack skill set.  I enjoy working in a team and the opportunity to dive in and learn to apply new tools.
 
 ## Projects
 
@@ -39,24 +39,20 @@ I am a friendly, hard-working science graduate with varied work experience looki
 ## Experience
 
 **Makers Academy** (Mar '21 - May '21)
-_Student_
-- 
 
 **By The Horns Brewery** (Aug '20 - Feb '21)
 _Production Brewer_
 
-**Self-employed** (Oct '18 - June '19)
-_Dog Training and Boarding_
-- Great exercise, perfect for studying behaviour, and I loved nurturing and getting to know so many different dogs!
-
 **The Spread Eagle Pub, Fuller's** (June '19 - Nov '19)
 _Cellarman and Bar Staff_
+
+**Self-employed** (Oct '18 - June '19)
+_Dog Training and Boarding_
 
 **Sambrook's Brewery** (June '15 - Oct '18)  
 _Brewery Operations Manager_
 _Packaging Team Leader_
 _Assistant Brewer_
-
 
 **Explosive Titles: Startup Web Agency** (Oct '13 to Jan '15)  
 _Lead Project Consultant_
@@ -64,17 +60,8 @@ _Lead Project Consultant_
 
 **Institute for Cell and Molecular Biosciences, Newcastle University** (Jan - May '13)
 _Lab Manager_
-- Trained and supported five new student lab members which enhanced their ability to work independently.
 
 ## Education
-
-#### Makers Academy (start_date to end_date)
-
-- OOP, TDD, MVC, DDD
-  - Fell back in love with OOP, TDD develops such strong fundamentals in approach to a problem, MVC/DDD optimising abstraction of interfaces while maintaining relatedness
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec
 
 #### University of Illinois in Urbana-Champaign 
 
