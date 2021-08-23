@@ -6,6 +6,8 @@
 
 I am a friendly, hard-working science graduate with varied work experience looking for a role where I can continue to develop my full stack skill set.  I enjoy working in a team and the opportunity to dive in and learn to apply new tools.
 
+In university I studied Molecular and Cellular Biology during which I also worked and gained experience in academic research labs in the areas of microbiology, neuroscience, and viral oncology. After moving to the UK, I began work as the 2nd employee in a startup digital development agency in central London. Later I joined the London brewing industry as an assistant brewer, where I was promoted to lead the packaging operations team, and went on to be the operations manager of the brewing department. After leaving the brewery I started a dog training/boarding business, then worked in a pub, and was also a production brewer at another London brewery. I wanted to bring my passion for the learning and application of new skills to its ultimate medium, software development, so I chose to attend Makers Academy.
+
 ## Projects
 
 | Name                         | Description       | Tech and Github   | 
@@ -33,13 +35,16 @@ I am a friendly, hard-working science graduate with varied work experience looki
 
   - At Sambrook's Brewery as a Brewery Assistant I abstracted a system of how my team worked and developed a planning tool to help gain visibility on the work to be done for the week, using a giant whiteboard, which enabled better shift scheduling for staff and early identification of schedule sticking points.  I was promoted to Packaging Team Leader for that solution as it was a representation of my initiative in identifying and improving process related problems throughout my role.  I was promoted once more to Operations Manager, having continued to further refine the planning tool, even implementing a digital version in Excel, to accomodate a diverse set of activities while still maintaining useful layers of abstraction.
   - After joining the lab in Newcastle, I took over a project in which the mechanism of a DNA construct was not working as designed. I reviewed the experimental design and discovered unintentional characterists present that prevented successful use of the constructs.  Once I made changes to the DNA sequence to enable its intended functionality, the project was able to progress in gathering data.  I was later appointed manager of this lab to help nurture the development of five new student researchers.
+  - At Makers 
+
+#### Leadership
 
 ## Experience
 
 **Makers Academy** (Mar '21 - May '21)  
   - Object-oriented programming, the single responsibility principle, and Ruby all synergised together to teach me the value of class abstraction and simplification of code, which I use during domain modelling and code refactoring.
   - Test driven development has been an invaluable tool for writing effective code by letting complexity arise as its needed, solving problems as they come up.
-  - Pair programming made it easier to pay attention to my learning process, as the intense collaboration requires a lot of empathy for your partner and yourself.
+  - Pair programming helped me to reflect on my learning process, as the intense collaboration requires a lot of empathy for your partner and yourself.
   - In every group project I found value in the Agile methodology approach, as our prioritised communication and reflections were necessary to finish projects in such short time frames.
 
 **By The Horns Brewery** (Aug '20 - Feb '21)  
@@ -67,7 +72,7 @@ _Packaging Team Leader_
 _Assistant Brewer_  
   - Created a weekly operational planning tool that increased foresight and aided ability to schedule staff, order supplies, and identify upcoming schedule sticking points.  
 
-**Explosive Titles: Startup Web Agency** (Oct '13 to Jan '15)  
+**Explosive Titles: Startup Digital Development Agency** (Oct '13 to Jan '15)  
 _Lead Project Consultant_  
   - The second employee in a startup, I took on wide ranging responsibilities, my role evolved as the company grew and its needs changed.
   - Planned, pitched, and won projects as clients’ primary contact. Gathered client requirements and translated into technical requirements for developers.
@@ -76,20 +81,25 @@ _Lead Project Consultant_
 _Lab Manager_  
   - Trained and supported five new student lab members which enhanced their ability to work independently.
 
+**Department of Integrative Physiology, University of Illinois in Urbana-Champaign**  (Jul '11 - May '12)  
+_Undergraduate Research Assistant_  
+  - Troubleshot another member’s project that was producing erratic results, by analysing data and identifying an early stage mislabeling of samples that continued to be used in subsequent experiments.  
+  - Regularly presented personal research progress formally which refined my ability to communicate complex details simply and effectively.  
+
+**Institute for Cell and Molecular Biosciences, Newcastle University** (Nov '10 - Jun '11)  
+_Student Researcher_
+  - During year abroad, evaluated the design of a project that progress had slowed on.  Performed a foundational review by assessing the validity of the molecular constructs being used by analysing the DNA sequences in use.  Discovered unintentional characteristics present that prevented successful use of the constructs.  Made changes to DNA sequence to enable original functionality so that the project could progress in gathering data.  
+
+**College of Veterinary Medicine, University of Illinois in Urbana-Champaign** (Sep '09 - Sep '10)  
+_Undergraduate Research Assistant_  
+  - Demonstrated ability to work independently to a high standard, propagating mammalian cell lines, growing virii and conducting cancer treatment experiments in mice.  
+  - Promoted to paid work and trusted with supervision of the lab while staff were away at a conference for two weeks.  
+
 ## Education
 
-#### University of Illinois in Urbana-Champaign 
-
-Bachelor of Science in Molecular and Cellular Biology ('08 - '12)
-  - Undergraduate Research Assistant, College of Veterinary Medicine 2nd Year
-    - Demonstrated ability to work independently to a high standard, propagating mammalian cell lines, growing virii and conducting cancer treatment experiments in mice.  Promoted to paid work and trusted with supervision of the lab while staff were away at a conference for two weeks.
-
-  - Student Researcher, Institute for Cell and Molecular Biosciences, Newcastle University, UK 3rd Year
-    - During year abroad, evaluated the design of a project that progress had slowed on.  Performed a foundational review by assessing the validity of the molecular constructs being used by analysing the DNA sequences in use.  Discovered unintentional characteristics present that prevented successful use of the constructs.  Made changes to DNA sequence to enable original functionality so that the project could progress in gathering data.
-
-  - Undergraduate Research Assistant, Department of Integrative Physiology 4th Year
-    - Troubleshot another member’s project that was producing erratic results by analysing data and identifying an early stage mislabeling of samples that continued to be used in subsequent experiments. Determined the effect caused on data gathered after the error and prevented unnecessary repetition of work where possible. Also regularly presented personal research progress formally which refined ability to describe project simply and effectively.
-
+#### University of Illinois in Urbana-Champaign  
+  - Bachelor of Science in Molecular and Cellular Biology ('08 - '12)  
+    
 #### Illinois Math and Science Academy Class of 2008
 
 ## Hobbies
