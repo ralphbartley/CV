@@ -35,7 +35,7 @@ In university I studied Molecular and Cellular Biology during which I also worke
 
   - At Sambrook's Brewery as a Brewery Assistant I abstracted a system of how my team worked and developed a planning tool to help gain visibility on the work to be done for the week, using a giant whiteboard, which enabled better shift scheduling for staff and early identification of schedule sticking points.  I was promoted to Packaging Team Leader for that solution as it was a representation of my initiative in identifying and improving process related problems throughout my role.  I was promoted once more to Operations Manager, having continued to further refine the planning tool, even implementing a digital version in Excel, to accomodate a diverse set of activities while still maintaining useful layers of abstraction.
   - After joining the lab in Newcastle, I took over a project in which the mechanism of a DNA construct was not working as designed. I reviewed the experimental design and discovered unintentional characterists present that prevented successful use of the constructs.  Once I made changes to the DNA sequence to enable its intended functionality, the project was able to progress in gathering data.  I was later appointed manager of this lab to help nurture the development of five new student researchers.
-  - At Makers 
+  - At Makers I constantly engaged in problem solving to learn and use new frameworks... 
 
 #### Leadership
 
@@ -46,27 +46,31 @@ In university I studied Molecular and Cellular Biology during which I also worke
   - Test driven development has been an invaluable tool for writing effective code by letting complexity arise as its needed, solving problems as they come up.
   - Pair programming helped me to reflect on my learning process, as the intense collaboration requires a lot of empathy for your partner and yourself.
   - In every group project I found value in the Agile methodology approach, as our prioritised communication and reflections were necessary to finish projects in such short time frames.
+  - Mentorship from a Maker in an earlier cohort helped me to engage better with the program and was a source of motivation for the journey.  I took the opportunity to become a mentor to a Maker in a subsequent cohort and we continue to spur eachother's growth to this day.
 
 **By The Horns Brewery** (Aug '20 - Feb '21)  
 _Production Brewer_
+  - Brought my technical experience in brewing to a new setting, learned and performed the current processes, reviewing them and driving improvements where possible.
 
 **The Spread Eagle Pub, Fuller's** (June '19 - Nov '19)  
 _Cellarman and Bar Staff_
+  - Maintained high quality cellaring practices for serving cask ale and worked as a compassionate team member in a large pub's busy environment.
 
 **Self-employed** (Oct '18 - June '19)   
 _Dog Training and Boarding_  
-  - Great exercise and a very hands on way to learn about a variety of breeds!  
+  - Successfully developed a client base with diverse needs using empathy by teaching owners the approach that I develop after spending time with each of their dogs.    
+  - Consistently received enthusiastic feedback from clients about the behavioural improvement of their dogs.  
  
 **Sambrook's Brewery** (June '15 - Oct '18)  
 _Brewery Operations Manager_  
-  - Led team of seven through effective communication of short term and long term goals. Increased staff effectiveness and broadened their skill set by holding individuals accountable in their roles and development.  
+  - Led team of seven through effective leadership and communication of short term and long term goals. Increased staff effectiveness and broadened their skill set by holding individuals accountable in their roles and development.  
   - Strong communication between my department, sales, transportation, and the managing director was essential for the brewery to work effectively and grow quickly, allowing for dynamic decision making and seizing of short term opportunities.
   - Extended the functionality of the planning tool I created to incorporate the additional complexity of increasingly diverse operations affecting production.  
   - Demonstrated ability to define and review core operational processes in order to enable production targets to be met and process efficiencies increased.  
   - Focused on understanding clients' needs in order to deliver service beyond their expectations; significant involvement with product development to help clients build their product lines.  
 
 _Packaging Team Leader_  
-  - Led four-strong packaging team; resulted in timely delivery of production targets and reduced overtime.  
+  - Leadership was integral when managing four-strong packaging team; resulted in timely delivery of production targets and reduced overtime.  
   - Gathered team feedback and developed consensus on improvements to working processes.  
 
 _Assistant Brewer_  
@@ -74,7 +78,7 @@ _Assistant Brewer_
 
 **Explosive Titles: Startup Digital Development Agency** (Oct '13 to Jan '15)  
 _Lead Project Consultant_  
-  - The second employee in a startup, I took on wide ranging responsibilities, my role evolved as the company grew and its needs changed.
+  - As the second employee in the startup I had a diverse set of responsibilities, from hiring and managing staff, to product development and project management.
   - Planned, pitched, and won projects as clients’ primary contact. Gathered client requirements and translated into technical requirements for developers.
 
 **Institute for Cell and Molecular Biosciences, Newcastle University** (Jan - May '13)  
@@ -84,11 +88,11 @@ _Lab Manager_
 **Department of Integrative Physiology, University of Illinois in Urbana-Champaign**  (Jul '11 - May '12)  
 _Undergraduate Research Assistant_  
   - Troubleshot another member’s project that was producing erratic results, by analysing data and identifying an early stage mislabeling of samples that continued to be used in subsequent experiments.  
-  - Regularly presented personal research progress formally which refined my ability to communicate complex details simply and effectively.  
+  - Regularly presented personal research progress formally and wrote reports which refined my ability to communicate complex details simply and effectively.  
 
 **Institute for Cell and Molecular Biosciences, Newcastle University** (Nov '10 - Jun '11)  
 _Student Researcher_
-  - During year abroad, evaluated the design of a project that progress had slowed on.  Performed a foundational review by assessing the validity of the molecular constructs being used by analysing the DNA sequences in use.  Discovered unintentional characteristics present that prevented successful use of the constructs.  Made changes to DNA sequence to enable original functionality so that the project could progress in gathering data.  
+  - Joined the lab during my year abroad and demonstrated an ability to gain and apply skills quickly by troubleshooting and fixing the design of the project I was given.
 
 **College of Veterinary Medicine, University of Illinois in Urbana-Champaign** (Sep '09 - Sep '10)  
 _Undergraduate Research Assistant_  
