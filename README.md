@@ -35,18 +35,16 @@ In university I studied Molecular and Cellular Biology during which I also worke
 
   - At Sambrook's Brewery as a Brewery Assistant I abstracted a system of how my team worked and developed a planning tool to help gain visibility on the work to be done for the week, using a giant whiteboard, which enabled better shift scheduling for staff and early identification of schedule sticking points.  I was promoted to Packaging Team Leader for that solution as it was a representation of my initiative in identifying and improving process related problems throughout my role.  I was promoted once more to Operations Manager, having continued to further refine the planning tool, even implementing a digital version in Excel, to accomodate a diverse set of activities while still maintaining useful layers of abstraction.
   - After joining the lab in Newcastle, I took over a project in which the mechanism of a DNA construct was not working as designed. I reviewed the experimental design and discovered unintentional characterists present that prevented successful use of the constructs.  Once I made changes to the DNA sequence to enable its intended functionality, the project was able to progress in gathering data.  I was later appointed manager of this lab to help nurture the development of five new student researchers.
-  - At Makers I constantly engaged in problem solving to learn and use new frameworks, as well as how to approach developing with them as a group. At the end of the [presentation](https://www.youtube.com/watch?v=avCYlOvstGc&t=917s) for our final group project [FitLyst](#projects), I explain how we changed our modelling approach to account for using a different type of database, MongoDB.
-
-#### Leadership
+  - At Makers utilizing my problem solving skills was vital for me to work with my team to adapt our modelling approach when using MongoDB and React Native compared to previous projects.
 
 ## Experience
 
 **Makers Academy** (Mar '21 - May '21)  
-  - Object-oriented programming, the single responsibility principle, and Ruby all synergised together to teach me the value of class abstraction and simplification of code, which I use during domain modelling and code refactoring.
+  - Object-oriented programming, the single responsibility principle, and Ruby all synergised together to teach me the value of abstraction and simplification of code, which I use during code refactoring.
   - Test driven development has been an invaluable tool for writing effective code by letting complexity arise as its needed, solving problems as they come up.
   - Pair programming helped me to reflect on my learning process, as the intense collaboration requires a lot of empathy for your partner and yourself.
   - In every group project I found value in the Agile methodology approach, as our prioritised communication and reflections were necessary to finish projects in such short time frames.
-  - Mentorship from a Maker in an earlier cohort helped me to engage better with the program and was a source of motivation for the journey.  I took the opportunity to become a mentor to a Maker in a subsequent cohort and we continue to spur eachother's growth to this day.
+  - Mentorship from a Maker in an earlier cohort helped me to engage better with the program and was a source of motivation for the journey.  I took the opportunity to become a mentor to a Maker in a subsequent cohort and I continue to use my emotional intelligence to create a fruitful relationship.
 
 **By The Horns Brewery** (Aug '20 - Feb '21)  
 _Production Brewer_
@@ -54,12 +52,12 @@ _Production Brewer_
 
 **The Spread Eagle Pub, Fuller's** (June '19 - Nov '19)  
 _Cellarman and Bar Staff_
-  - Maintained high quality cellaring practices for serving cask ale and worked as a compassionate team member in a large pub's busy environment.
+  - Used communication to be a compassionate team member in a large pub's busy environment.
 
 **Self-employed** (Oct '18 - June '19)   
 _Dog Training and Boarding_  
   - Successfully developed a client base with diverse needs using empathy by teaching owners the approach that I develop after spending time with each of their dogs.    
-  - Consistently received enthusiastic feedback from clients about the behavioural improvement of their dogs.  
+  - Consistently received enthusiastic feedback from clients about positive results.
  
 **Sambrook's Brewery** (June '15 - Oct '18)  
 _Brewery Operations Manager_  
@@ -74,7 +72,7 @@ _Packaging Team Leader_
   - Gathered team feedback and developed consensus on improvements to working processes.  
 
 _Assistant Brewer_  
-  - Created a weekly operational planning tool that increased foresight and aided ability to schedule staff, order supplies, and identify upcoming schedule sticking points.  
+  - Used my attention to detail to create a weekly operational planning tool that increased foresight and aided ability to schedule staff, order supplies, and identify upcoming schedule sticking points. 
 
 **Explosive Titles: Startup Digital Development Agency** (Oct '13 to Jan '15)  
 _Lead Project Consultant_  
@@ -97,7 +95,7 @@ _Student Researcher_
 **College of Veterinary Medicine, University of Illinois in Urbana-Champaign** (Sep '09 - Sep '10)  
 _Undergraduate Research Assistant_  
   - Demonstrated ability to work independently to a high standard, propagating mammalian cell lines, growing virii and conducting cancer treatment experiments in mice.  
-  - Promoted to paid work and trusted with supervision of the lab while staff were away at a conference for two weeks.  
+  - Maintained my position outside of term time and trusted with supervision of the lab while staff were away at a conference for two weeks.
 
 ## Education
 
