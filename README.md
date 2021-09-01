@@ -12,8 +12,9 @@ In university I studied Molecular and Cellular Biology during which I also worke
 
 | Name                         | Description       | Tech and Github   | 
 | ---------------------------- | ----------------- | ----------------- |
-| [FitLyst](https://www.youtube.com/watch?v=avCYlOvstGc&t=780s) | Workout building mobile app | [Javascript, React Native, Expo](https://github.com/Emmapr123/ControLLyfe-ReactNative) and [MongoDB, Node, Express](https://github.com/taran314/controLLyfe) |
-| [Knitter](http://knitter-acebook.herokuapp.com/) | A Facebook clone for Grannies! | [Ruby, Rails, Heroku, AWS S3](https://github.com/TataSher/Acebook-Knitter) |
+| Personal Website and Projects | Blog, Projects: Rust Base Buddy | [Rails, SVG](https://github.com/ralphbartley/personal_website) |
+| [FitLyst](https://www.youtube.com/watch?v=avCYlOvstGc&t=780s) | Workout building mobile app, Makers final group project | [Javascript, React Native, Expo](https://github.com/Emmapr123/ControLLyfe-ReactNative) and [MongoDB, Node, Express](https://github.com/taran314/controLLyfe) |
+| [Knitter](http://knitter-acebook.herokuapp.com/) | A Facebook clone for Grannies! Makers group project | [Ruby, Rails, Heroku, AWS S3](https://github.com/TataSher/Acebook-Knitter) |
 | Makers BnB | AirBnB clone for renting and booking property | [Ruby, PostgreSQL, Sinatra](https://github.com/ralphbartley/makersbnb_Pi_to_i) |
 
 ## Skills
