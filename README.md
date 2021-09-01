@@ -6,7 +6,7 @@
 
 I am a friendly, hard-working science graduate with varied work experience looking for a role where I can continue to develop my full stack skill set.  I enjoy working in a team and the opportunity to dive in and learn to apply new tools.
 
-In university I studied Molecular and Cellular Biology during which I also worked and gained experience in academic research labs in the areas of microbiology, neuroscience, and viral oncology. After moving to the UK, I began work as the 2nd employee in a startup digital development agency in central London. Later I joined the London brewing industry as an assistant brewer, where I was promoted to lead the packaging operations team, and went on to be the operations manager of the brewing department. After leaving the brewery I started a dog training/boarding business, then worked in a pub, and was also a production brewer at another London brewery. I wanted to bring my passion for the learning and application of new skills to its ultimate medium, software development, so I chose to attend Makers Academy.
+In university I studied Molecular and Cellular Biology during which I also worked in academic research labs in the areas of microbiology, neuroscience, and viral oncology. After moving to the UK, I began work as the 2nd employee in a startup digital development agency in central London. Later I joined the London brewing industry as an assistant brewer, ultimately becoming the operations manager. After leaving the brewery I started a dog training/boarding business, then worked in a pub, and was also a production brewer at another London brewery. I wanted to bring my passion for the learning and application of new skills to its ultimate medium, software development, so I chose to attend Makers Academy.
 
 ## Projects
 
@@ -40,44 +40,44 @@ In university I studied Molecular and Cellular Biology during which I also worke
 ## Experience
 
 **Makers Academy** (Mar '21 - May '21)  
-  - Object-oriented programming, the single responsibility principle, and Ruby all synergised together to teach me the value of abstraction and simplification of code, which I use during code refactoring.
-  - Test driven development has been an invaluable tool for writing effective code by letting complexity arise as its needed, solving problems as they come up.
-  - Pair programming helped me to reflect on my learning process, as the intense collaboration requires a lot of empathy for your partner and yourself.
-  - In every group project I found value in the Agile methodology approach, as our prioritised communication and reflections were necessary to finish projects in such short time frames.
-  - Mentorship from a Maker in an earlier cohort helped me to engage better with the program and was a source of motivation for the journey.  I took the opportunity to become a mentor to a Maker in a subsequent cohort and I continue to use my emotional intelligence to create a fruitful relationship.
+  - Object-oriented programming, the single responsibility principle, and Ruby all synergised together to teach me the value of abstraction and simplification of code, which I use for planning and refactoring.
+  - Test driven development has been an invaluable tool for writing effective code by letting complexity arise as it's needed, solving problems as they come up.
+  - Pair programming helped me to reflect on my learning process, as the intense collaboration requires a lot of empathy and emotional intelligence for your partner and yourself.
+  - In every group project I found value in the Agile methodology approach, as our prioritised communication and reflections were invaluable to finishing projects in such short time frames.
+  - Mentorship from a Maker in an earlier cohort helped me to engage better with the program and was a source of motivation for the journey. I took the opportunity to become a mentor to a Maker in a subsequent cohort and I continue to use my emotional intelligence to create fruitful relationships.
+
 
 **By The Horns Brewery** (Aug '20 - Feb '21)  
 _Production Brewer_
-  - Brought my technical experience in brewing to a new setting, learned and performed the current processes, reviewing them and driving improvements where possible.
+  - Brought my technical experience in brewing to a new setting, using my attention to detail to learn and perform the current processes, reviewing them and driving improvements where possible.
 
 **The Spread Eagle Pub, Fuller's** (June '19 - Nov '19)  
 _Cellarman and Bar Staff_
-  - Used communication to be a compassionate team member in a large pub's busy environment.
+  - Used empathic communication as a compassionate team member in a large pub's busy environment, helping to create a positive atmosphere for customers and staff.
 
 **Self-employed** (Oct '18 - June '19)   
 _Dog Training and Boarding_  
-  - Successfully developed a client base with diverse needs using empathy by teaching owners the approach that I develop after spending time with each of their dogs.    
+  - Successfully developed a loyal client base with diverse needs using empathy by teaching owners the approach that I developed after spending time with each of their dogs.    
   - Consistently received enthusiastic feedback from clients about positive results.
  
 **Sambrook's Brewery** (June '15 - Oct '18)  
 _Brewery Operations Manager_  
   - Led team of seven through effective leadership and communication of short term and long term goals. Increased staff effectiveness and broadened their skill set by holding individuals accountable in their roles and development.  
   - Strong communication between my department, sales, transportation, and the managing director was essential for the brewery to work effectively and grow quickly, allowing for dynamic decision making and seizing of short term opportunities.
-  - Extended the functionality of the planning tool I created to incorporate the additional complexity of increasingly diverse operations affecting production.  
+  - Used my problem solving skills to extend the functionality of the planning tool I created, in order to incorporate the additional complexity of increasingly diverse operations affecting production.  
   - Demonstrated ability to define and review core operational processes in order to enable production targets to be met and process efficiencies increased.  
   - Focused on understanding clients' needs in order to deliver service beyond their expectations; significant involvement with product development to help clients build their product lines.  
 
 _Packaging Team Leader_  
-  - Leadership was integral when managing four-strong packaging team; resulted in timely delivery of production targets and reduced overtime.  
-  - Gathered team feedback and developed consensus on improvements to working processes.  
+  - Leadership was integral when managing a four-strong team; reduced overtime and increased morale by gathering team feedback and developing a consensus on improvements to working processes.  
 
 _Assistant Brewer_  
   - Used my attention to detail to create a weekly operational planning tool that increased foresight and aided ability to schedule staff, order supplies, and identify upcoming schedule sticking points. 
 
 **Explosive Titles: Startup Digital Development Agency** (Oct '13 to Jan '15)  
 _Lead Project Consultant_  
-  - As the second employee in the startup I had a diverse set of responsibilities, from hiring and managing staff, to product development and project management.
-  - Planned, pitched, and won projects as clients’ primary contact. Gathered client requirements and translated into technical requirements for developers.
+  - As the second employee I utilized attention to detail and problem solving skills to manage a diverse set of responsibilities, from hiring staff, to product development and project management.
+  - Planned, pitched, and won projects as clients’ primary contact. Used empathy and communication skills with clients to develop solutions and translated them into technical requirements for developers.
 
 **Institute for Cell and Molecular Biosciences, Newcastle University** (Jan - May '13)  
 _Lab Manager_  
@@ -85,24 +85,25 @@ _Lab Manager_
 
 **Department of Integrative Physiology, University of Illinois in Urbana-Champaign**  (Jul '11 - May '12)  
 _Undergraduate Research Assistant_  
-  - Troubleshot another member’s project that was producing erratic results, by analysing data and identifying an early stage mislabeling of samples that continued to be used in subsequent experiments.  
+  - Used my problem solving skills to troubleshoot and fix another member’s project, that was producing erratic results, by analysing their data and identifying an early stage mislabeling of samples.  
   - Regularly presented personal research progress formally and wrote reports which refined my ability to communicate complex details simply and effectively.  
 
 **Institute for Cell and Molecular Biosciences, Newcastle University** (Nov '10 - Jun '11)  
 _Student Researcher_
-  - Joined the lab during my year abroad and demonstrated an ability to gain and apply skills quickly by troubleshooting and fixing the design of the project I was given.
+  - Demonstrated my ability to learn a new domain quickly, as well as gain and apply skills quickly, which I used to troubleshoot and fix the design of the project I was given, in a short time period.
 
 **College of Veterinary Medicine, University of Illinois in Urbana-Champaign** (Sep '09 - Sep '10)  
 _Undergraduate Research Assistant_  
-  - Demonstrated ability to work independently to a high standard, propagating mammalian cell lines, growing virii and conducting cancer treatment experiments in mice.  
-  - Maintained my position outside of term time and trusted with supervision of the lab while staff were away at a conference for two weeks.
+  - Hired outside of term time after demonstrating ability to work independently to a high standard, propagating mammalian cell lines, growing virii and conducting cancer treatment experiments in mice.  
 
 ## Education
 
-#### University of Illinois in Urbana-Champaign  
-  - Bachelor of Science in Molecular and Cellular Biology ('08 - '12)  
+**University of Illinois in Urbana-Champaign** ('08 - '12)  
+  - Bachelor of Science in Molecular and Cellular Biology
+  - Recognised for academic achievement as a member of the Phi Eta Sigma National Honor Society  
+  - Named author publication in the academic journal Nucleic Acids Research 2014, Vol. 42 Issue 16 doi:10.1093/nar/gku761
     
-#### Illinois Math and Science Academy Class of 2008
+**Illinois Math and Science Academy** Class of '08
 
 ## Hobbies
 
